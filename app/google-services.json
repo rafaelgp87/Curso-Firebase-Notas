@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "857947452339",
+    "firebase_url": "https://curso-firebase-5f394.firebaseio.com",
+    "project_id": "curso-firebase-5f394",
+    "storage_bucket": "curso-firebase-5f394.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857947452339:android:40766f5b83eb3535",
+        "android_client_info": {
+          "package_name": "notes.com.example.rafaelgp87.cursofirebasenotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857947452339-qev5u8s2kdfn1f0bsq80cfkukfh86lp9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "notes.com.example.rafaelgp87.cursofirebasenotes",
+            "certificate_hash": "a06211e494e0c96e575277f87612a4ba139c6a09"
+          }
+        },
+        {
+          "client_id": "857947452339-cjnv1jvlm9u9fafkb7ngocaquvtonjpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtIE7fKd2tGOQLbUOH6EshbuyCBdwk4cg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857947452339-cjnv1jvlm9u9fafkb7ngocaquvtonjpi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
